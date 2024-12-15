@@ -60,8 +60,8 @@
 ### Homepage
 ![Homepage](images/homepage-screenshot.png)
 
-### Omnitrix Section
-![Omnitrix Animation](images/omnitrix-section-screenshot.png)
+### Timeline
+![Timeline](images/omnitrix-section-screenshot.png)
 
 ### Alien Profiles
 ![Alien Profiles](images/alien-profiles-screenshot.png)
