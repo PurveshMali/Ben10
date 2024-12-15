@@ -61,7 +61,7 @@
 ![Homepage](Hackathon/images/homepage-screenshot.png)
 
 ### Timeline
-![Timeline](Hackathon/images/omnitrix-section-screenshot.png)
+![Timeline](Hackathon/images/timeline-section-screenshot.png)
 
 ### Alien Profiles
 ![Alien Profiles](Hackathon/images/alien-profiles-screenshot.png)
