@@ -58,13 +58,13 @@
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage-screenshot.png)
+![Homepage](Hackathon/images/homepage-screenshot.png)
 
 ### Timeline
-![Timeline](images/omnitrix-section-screenshot.png)
+![Timeline](Hackathon/images/omnitrix-section-screenshot.png)
 
 ### Alien Profiles
-![Alien Profiles](images/alien-profiles-screenshot.png)
+![Alien Profiles](Hackathon/images/alien-profiles-screenshot.png)
 
 ---
 
